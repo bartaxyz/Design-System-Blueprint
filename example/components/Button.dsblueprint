@@ -1,0 +1,28 @@
+<!-- Blueprint v0.0.1 -->
+<!-- Project v1.0 -->
+<!-- Document v${Project}.0 -->
+
+# Button
+
+## Wohooo, it works
+
+## Do
+## Do Not
+
+- List Item 1
+- List Item 2
+- List Item 3
+
+**emphasis**
+__emphasis__
+
+*italic*
+_italic_
+
+~~Strikethrough~~
+
+> blockquote
+>> Deeper blockquote
+>>> And even deeper blockquote
+
+[http://thisIsLink.com](This Is Link)!
