@@ -1,6 +1,8 @@
-<!-- Blueprint v0.0.1 -->
-<!-- Project v1.0 -->
-<!-- Document v${Project}.0 -->
+---
+Blueprint: v0.0.1
+Project: v1.0
+Document: ${Project}.1
+---
 
 # Button
 
