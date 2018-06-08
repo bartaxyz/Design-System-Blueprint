@@ -2,6 +2,7 @@
 
 This documentation describes structure of Design System Blueprint.
 
-## Versioning
+## Continue Reading
 
-Applied based on releases of this repository on GitHub.
+1. [Intro](01.%20Intro.md)
+2. [Meta Data](02.%20Meta%20Data.md)
